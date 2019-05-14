@@ -4,17 +4,17 @@ Grav is a **Fast**, **Simple**, and **Flexible**, file-based Web-platform.  Ther
 
 The underlying architecture of Grav is designed to use well-established and _best-in-class_ technologies to ensure that Grav is simple to use and easy to extend. Some of these key technologies include:
 
-* [Twig Templating](http://twig.sensiolabs.org/): for powerful control of the user interface
+* [Twig Templating](http://url/): for powerful control of the user interface
 
 # Requirements
 
-- Check the [Apache](https://learn.getgrav.org/basics/requirements#apache-requirements) or [IIS](https://learn.getgrav.org/basics/requirements#iis-requirements) requirements
+- Check the requirements
 
 # QuickStart
 
 ### Downloading a Grav Package
 
-You can download a **ready-built** package from the [Downloads page on https://getgrav.org](https://getgrav.org/downloads)
+You can download a **ready-built** package from the [Downloads page on https://url](https://url/)
 
 ### With Composer
 
